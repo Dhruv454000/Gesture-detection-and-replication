@@ -1,6 +1,6 @@
 # Gesture-detection-and-replication
 ## Table of contents
-* [_about the project_](https://github.com/Dhruv454000/Gesture-detection-and-replication/edit/develop/README.md#:~:text=about%20the%20project-,About%20the%20project%3A-,-To%20detect%20and)
+* [_about the project_](https://github.com/Dhruv454000/Gesture-detection-and-replication/edit/develop/README.md#:~:text=Prerequisites-,About%20the%20project%3A-,-To%20detect%20and)
   * [Tech Stack](https://github.com/Dhruv454000/Gesture-detection-and-replication/edit/develop/README.md#:~:text=detecting%20different%20gestures.-,Tech%20Stack%3A-,-Technologies%20used%20for)
   * File structure
 * [_Getting started_](https://github.com/Dhruv454000/Gesture-detection-and-replication/edit/develop/README.md#:~:text=Google%20colab-,Getting%20started%3A-,-Prerequisites)
@@ -27,6 +27,8 @@ Technologies used for this project
 ### Prerequisites
 Install coppeliasim:   [https://coppeliarobotics.com/downloads](https://coppeliarobotics.com/downloads)
 
+### Installation
+_Clone the Repo_
 
 Some project resources and links:-
 All in one project resources

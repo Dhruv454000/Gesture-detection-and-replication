@@ -6,6 +6,7 @@
 * [Getting Started](https://github.com/Dhruv454000/Gesture-detection-and-replication/edit/develop/README.md#:~:text=videofeed%20via%20webcams-,Getting%20started%3A-,-Prerequisites)
   * [Prerequisites](https://github.com/Dhruv454000/Gesture-detection-and-replication/edit/develop/README.md#:~:text=videofeed%20via%20webcams-,Getting%20started%3A-,-Prerequisites)
   * [Installation](https://github.com/Dhruv454000/Gesture-detection-and-replication/edit/develop/README.md#:~:text=and%20other%20libraries.-,Installation,-Clone%20the%20repo)
+ * [Usage](https://github.com/Dhruv454000/Gesture-detection-and-replication/edit/develop/README.md#:~:text=detection-and-replication-,Usage,-After%20cloning%20the)
  * [Results and Demo](#results-and-demo) 
 * [Future Work](#future-work)
 * [Troubleshooting](#troubleshooting)
@@ -70,6 +71,30 @@ Technologies used for this project
 ```sh
 git clone https://github.com/Dhruv454000/Gesture-detection-and-replication
 ```
+## Usage
+
+After cloning the repo transfer the files to your project folder. Open terminal and go to the project folder and run the following commands:-
+
+1.First open coppeliasim and then open the scene in coppeliasim.
+
+2.Now run **_python filename.py_** in cmd (make sure you are in same directory where your filename.py is saved)
+
+## Results and Demo
+
+
+## Future work
+
+## Troubleshooting
+
+* Common errors while configuring the project
+
+## Contributors
+* [Dhruv Kunjadiya](https://github.com/Dhruv454000)
+* [Gaurav Kumar](
+
+## Acknowledgements and Resources
+* [SRA VJTI](https://www.sravjti.in/) Eklavya 2020
+
 
 Some project resources and links:-
 All in one project resources

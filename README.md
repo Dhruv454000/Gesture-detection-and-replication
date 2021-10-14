@@ -90,13 +90,13 @@ After cloning the repo transfer the files to your project folder. Open terminal 
 
 ## Contributors
 * [Dhruv Kunjadiya](https://github.com/Dhruv454000)
-* [Gaurav Kumar](
+* [Gaurav Kumar](https://github.com/GauravKumar9920)
 
 ## Acknowledgements and Resources
 * [SRA VJTI](https://www.sravjti.in/) Eklavya 2020
 
 
-Some project resources and links:-
-All in one project resources
-https://docs.google.com/document/d/1Ho3gW0fzOjTQDwivSkv8w53ms3cHyDvEvNnYnVq8qrg/edit
+ * Some project resources and links:-
+   [All in one project resources]( https://docs.google.com/document/d/1Ho3gW0fzOjTQDwivSkv8w53ms3cHyDvEvNnYnVq8qrg/edit)
+  
 

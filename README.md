@@ -7,11 +7,11 @@
   * [Prerequisites](https://github.com/Dhruv454000/Gesture-detection-and-replication/edit/develop/README.md#:~:text=videofeed%20via%20webcams-,Getting%20started%3A-,-Prerequisites)
   * [Installation](https://github.com/Dhruv454000/Gesture-detection-and-replication/edit/develop/README.md#:~:text=and%20other%20libraries.-,Installation,-Clone%20the%20repo)
  * [Usage](https://github.com/Dhruv454000/Gesture-detection-and-replication/edit/develop/README.md#:~:text=detection-and-replication-,Usage,-After%20cloning%20the)
- * [Results and Demo](#results-and-demo) 
+ * [Results and Demo]()
 * [Future Work](#future-work)
-* [Troubleshooting](#troubleshooting)
-* [Contributors](#contributors)
-* [Acknowledgements and Resources](#acknowledgements-and-resources)
+* [Troubleshooting](https://github.com/Dhruv454000/Gesture-detection-and-replication/edit/develop/README.md#:~:text=Future%20work-,Troubleshooting,-Common%20errors%20while)
+* [Contributors](https://github.com/Dhruv454000/Gesture-detection-and-replication/edit/develop/README.md#:~:text=configuring%20the%20project-,Contributors,-Dhruv%20Kunjadiya)
+* [Acknowledgements and Resources](https://github.com/Dhruv454000/Gesture-detection-and-replication/edit/develop/README.md#:~:text=Gaurav%20Kumar-,Acknowledgements%20and%20Resources,-SRA%20VJTI%20Eklavya)
  
 ## About the Project
 To detect and recognise basic hand gestures and imitate them using a simulation of a robotic hand. Recognition of gestures can be done using various approaches like CNN (Convolutional Neural Network), feature engineering (such as binary thresholding, circle detection, etc.), and others. The simulation will be done using CoppeliaSim.In this project will be focusing on two methods. 1.CNN's(for more information see in project resources link below) 2.opencv(contours detection).

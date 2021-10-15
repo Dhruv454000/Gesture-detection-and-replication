@@ -1,7 +1,7 @@
 # Gesture-detection-and-replication
 ## Table of contents
 * [About the Project](#about-the-project)
-  * [Tech stack](#file-structure)
+  * [Tech stack](#technologies)
   * [File Structure](#file-structure)
 * [Getting started](#file-structure)
   * [Prerequisites](#prerequisites)

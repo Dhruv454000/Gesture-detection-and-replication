@@ -1,9 +1,9 @@
 # Gesture-detection-and-replication
 ## Table of contents
 * [About the Project](#about-the-project)
-  * [Tech Stack](#tech-stack)
+  * [Tech stack](#about-the-project)
   * [File Structure](#file-structure)
-* [Getting Started](#getting-started)
+* [Getting started](#prerequisites)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
  * [Usage](#usage)
@@ -41,8 +41,7 @@ Technologies used for this project
     ├── some reference notes  # linear algebra and deep learning notes
     ├── README.md                 
 
-## Getting started:-
-
+## Getting Started:-
 
 ### Prerequisites
 Follow below steps

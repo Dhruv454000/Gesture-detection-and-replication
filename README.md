@@ -36,10 +36,10 @@ Technologies used for this project
     ├── docs                    # Documentation files (alternatively `doc`)
     │   ├── report.pdf          # Project report
     │   └── results             # Folder containing screenshots, gifs, videos of results
-    ├── MOODYLYSER2f.ipynb                  # Training program for the Model
-    ├── Moodelld1_5de.h5                  # Pretrained Model with set weights
-    ├── README.md
-    ├──                   # Connects the model to a live videofeed via webcams
+    ├── code files                  # code of both approaches( 1.using pretrained cnn model 2. using contours)
+    ├── coppeliasim scene and final code  # scene which you need to open and final merged code
+    ├── some reference notes  # linear algebra and deep learning notes
+    ├── README.md                 
 
 ## Getting started:-
 
@@ -104,6 +104,7 @@ After cloning the repo transfer the files to your project folder. Open terminal 
    
      [refer this doc for more clearity for contours approach](https://docs.google.com/document/d/10_vhaOWwhwUkZT0DO1SDguEUwxTreZwWuqfsgjbF5bI/edit#heading=h.3f6ncedfulu)
    * [Remote api functions coppeliasim](https://www.coppeliarobotics.com/helpFiles/en/remoteApiFunctionsPython.htm)
+   * [To make  coppelia scene  follow this]
 
   
 

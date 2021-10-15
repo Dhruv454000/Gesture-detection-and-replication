@@ -1,7 +1,7 @@
 # Gesture-detection-and-replication
 ## Table of contents
 * [About the Project](#about-the-project)
-  * [Tech stack](#technologies)
+  * [Tech stack](#about-the-project)
   * [File Structure](#file-structure)
 * [Getting started](#file-structure)
   * [Prerequisites](#prerequisites)
@@ -15,11 +15,6 @@
  
 ## About the Project
 To detect and recognise basic hand gestures and imitate them using a simulation of a robotic hand. Recognition of gestures can be done using various approaches like CNN (Convolutional Neural Network), feature engineering (such as binary thresholding, circle detection, etc.), and others. The simulation will be done using CoppeliaSim.In this project will be focusing on two methods. 1.CNN's(for more information see in project resources link below) 2.opencv(contours detection).
-
-![image](https://user-images.githubusercontent.com/84779934/137261894-87074cd3-31a4-4884-a320-50d0a9f6aa65.png)
-
-So as you can see in the image when **_vertical fist_** was detected then the arm that you see in right side window is oriented at some position.
-similarly you can move the arm by detecting different gestures.
 
 ### Tech Stack:-
 Technologies used for this project
@@ -82,6 +77,11 @@ After cloning the repo transfer the files to your project folder. Open terminal 
 2.Now run **_python filename.py_** in cmd (make sure you are in same directory where your filename.py is saved)
 
 ## Results and Demo
+
+![image](https://user-images.githubusercontent.com/84779934/137261894-87074cd3-31a4-4884-a320-50d0a9f6aa65.png)
+
+So as you can see in the image when **_vertical fist_** was detected then the arm that you see in right side window is oriented at some position.
+similarly you can move the arm by detecting different gestures.
 
 * [VIDEO OF PROJECT](https://drive.google.com/file/d/1MYeF46O8lwtb_kGuzHJm7bSkJHGjh_S8/view?usp=sharing)
 

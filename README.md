@@ -1,17 +1,17 @@
 # Gesture-detection-and-replication
 ## Table of contents
-* [About the Project](https://github.com/Dhruv454000/Gesture-detection-and-replication/edit/develop/README.md#:~:text=Acknowledgements%20and%20Resources-,About%20the%20Project,-To%20detect%20and)
-  * [Tech Stack](https://github.com/Dhruv454000/Gesture-detection-and-replication/edit/develop/README.md#:~:text=detecting%20different%20gestures.-,Tech%20Stack%3A-,-Technologies%20used%20for)
-  * [File Structure](https://github.com/Dhruv454000/Gesture-detection-and-replication/edit/develop/README.md#:~:text=Google%20colab-,File%20Structure,-.%0A%E2%94%9C%E2%94%80%E2%94%80%20docs%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%23%20Documentation%20files)
-* [Getting Started](https://github.com/Dhruv454000/Gesture-detection-and-replication/edit/develop/README.md#:~:text=notes%0A%E2%94%9C%E2%94%80%E2%94%80%20README.md-,Getting%20started%3A-,-Prerequisites)
-  * [Prerequisites](https://github.com/Dhruv454000/Gesture-detection-and-replication/edit/develop/README.md#:~:text=Prerequisites-,Follow%20below%20steps,-Install%20coppeliasim%3A%20https)
-  * [Installation](https://github.com/Dhruv454000/Gesture-detection-and-replication/edit/develop/README.md#:~:text=and%20other%20libraries.-,Installation,-Clone%20the%20repo)
- * [Usage](https://github.com/Dhruv454000/Gesture-detection-and-replication/edit/develop/README.md#:~:text=(steps%20to%20run%20project))
- * [Results and Demo](https://github.com/Dhruv454000/Gesture-detection-and-replication/edit/develop/README.md#:~:text=Results%20and%20Demo-,VIDEO%20OF%20PROJECT,-Future%20work)
-* [Future Work](https://github.com/Dhruv454000/Gesture-detection-and-replication/edit/develop/README.md#:~:text=VIDEO%20OF%20PROJECT-,Future%20work,-To%20update%20the)
-* [Troubleshooting](https://github.com/Dhruv454000/Gesture-detection-and-replication/edit/develop/README.md#:~:text=Future%20work-,Troubleshooting,-Common%20errors%20while)
-* [Contributors](https://github.com/Dhruv454000/Gesture-detection-and-replication/edit/develop/README.md#:~:text=configuring%20the%20project-,Contributors,-Dhruv%20Kunjadiya)
-* [Acknowledgements and Resources](https://github.com/Dhruv454000/Gesture-detection-and-replication/edit/develop/README.md#:~:text=Gaurav%20Kumar-,Acknowledgements%20and%20Resources,-SRA%20VJTI%20Eklavya)
+* [About the Project](#about-the-project)
+  * [Tech Stack](#tech-stack)
+  * [File Structure](#file-structure)
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+ * [Usage](#usage)
+ * [Results and Demo](#results-and-demo)
+* [Future Work](#future-work)
+* [Troubleshooting](#troubleshooting)
+* [Contributors](#contributors)
+* [Acknowledgements and Resources](acknowledgements-and-resources)
  
 ## About the Project
 To detect and recognise basic hand gestures and imitate them using a simulation of a robotic hand. Recognition of gestures can be done using various approaches like CNN (Convolutional Neural Network), feature engineering (such as binary thresholding, circle detection, etc.), and others. The simulation will be done using CoppeliaSim.In this project will be focusing on two methods. 1.CNN's(for more information see in project resources link below) 2.opencv(contours detection).

@@ -6,11 +6,12 @@
 * [Getting Started](https://github.com/Dhruv454000/Gesture-detection-and-replication/edit/develop/README.md#:~:text=videofeed%20via%20webcams-,Getting%20started%3A-,-Prerequisites)
   * [Prerequisites](https://github.com/Dhruv454000/Gesture-detection-and-replication/edit/develop/README.md#:~:text=videofeed%20via%20webcams-,Getting%20started%3A-,-Prerequisites)
   * [Installation](https://github.com/Dhruv454000/Gesture-detection-and-replication/edit/develop/README.md#:~:text=and%20other%20libraries.-,Installation,-Clone%20the%20repo)
- * [Results and Demo](#results-and-demo) 
+ * [Usage](https://github.com/Dhruv454000/Gesture-detection-and-replication/edit/develop/README.md#:~:text=detection-and-replication-,Usage,-After%20cloning%20the)
+ * [Results and Demo]()
 * [Future Work](#future-work)
-* [Troubleshooting](#troubleshooting)
-* [Contributors](#contributors)
-* [Acknowledgements and Resources](#acknowledgements-and-resources)
+* [Troubleshooting](https://github.com/Dhruv454000/Gesture-detection-and-replication/edit/develop/README.md#:~:text=Future%20work-,Troubleshooting,-Common%20errors%20while)
+* [Contributors](https://github.com/Dhruv454000/Gesture-detection-and-replication/edit/develop/README.md#:~:text=configuring%20the%20project-,Contributors,-Dhruv%20Kunjadiya)
+* [Acknowledgements and Resources](https://github.com/Dhruv454000/Gesture-detection-and-replication/edit/develop/README.md#:~:text=Gaurav%20Kumar-,Acknowledgements%20and%20Resources,-SRA%20VJTI%20Eklavya)
  
 ## About the Project
 To detect and recognise basic hand gestures and imitate them using a simulation of a robotic hand. Recognition of gestures can be done using various approaches like CNN (Convolutional Neural Network), feature engineering (such as binary thresholding, circle detection, etc.), and others. The simulation will be done using CoppeliaSim.In this project will be focusing on two methods. 1.CNN's(for more information see in project resources link below) 2.opencv(contours detection).
@@ -35,10 +36,10 @@ Technologies used for this project
     ├── docs                    # Documentation files (alternatively `doc`)
     │   ├── report.pdf          # Project report
     │   └── results             # Folder containing screenshots, gifs, videos of results
-    ├── MOODYLYSER2f.ipynb                  # Training program for the Model
-    ├── Moodelld1_5de.h5                  # Pretrained Model with set weights
-    ├── README.md
-    ├── landmarks.py                  # Connects the model to a live videofeed via webcams
+    ├── code files                  # code of both approaches( 1.using pretrained cnn model 2. using contours)
+    ├── coppeliasim scene and final code  # scene which you need to open and final merged code
+    ├── some reference notes  # linear algebra and deep learning notes
+    ├── README.md                 
 
 ## Getting started:-
 
@@ -70,8 +71,40 @@ Technologies used for this project
 ```sh
 git clone https://github.com/Dhruv454000/Gesture-detection-and-replication
 ```
+## Usage
 
-Some project resources and links:-
-All in one project resources
-https://docs.google.com/document/d/1Ho3gW0fzOjTQDwivSkv8w53ms3cHyDvEvNnYnVq8qrg/edit
+After cloning the repo transfer the files to your project folder. Open terminal and go to the project folder and run the following commands:-
+
+1.First open coppeliasim and then open the scene in coppeliasim.
+
+2.Now run **_python filename.py_** in cmd (make sure you are in same directory where your filename.py is saved)
+
+## Results and Demo
+
+
+## Future work
+
+## Troubleshooting
+
+* Common errors while configuring the project
+
+## Contributors
+* [Dhruv Kunjadiya](https://github.com/Dhruv454000)
+* [Gaurav Kumar](https://github.com/GauravKumar9920)
+
+## Acknowledgements and Resources
+* [SRA VJTI](https://www.sravjti.in/) Eklavya 2020
+
+
+ * Some project resources and links:-
+   * [Deep learning specialization](https://www.coursera.org/specializations/deep-learning)
+   * [linear algebra](https://www.youtube.com/playlist?list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B)
+   * [Hand gesture model using CNN's](https://towardsdatascience.com/tutorial-using-deep-learning-and-cnns-to-make-a-hand-gesture-recognition-model-371770b63a51)
+   * [contours approach](https://www.youtube.com/watch?v=v-XcmsYlzjA)
+   
+     [refer this doc for more clearity for contours approach](https://docs.google.com/document/d/10_vhaOWwhwUkZT0DO1SDguEUwxTreZwWuqfsgjbF5bI/edit#heading=h.3f6ncedfulu)
+   * [Remote api functions coppeliasim](https://www.coppeliarobotics.com/helpFiles/en/remoteApiFunctionsPython.htm)
+   * [To make  coppelia scene  follow this](https://www.coppeliarobotics.com/helpFiles/en/inverseKinematicsTutorial.htm)
+
+  
 

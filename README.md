@@ -3,7 +3,7 @@
 * [About the Project](#about-the-project)
   * [Tech stack](#about-the-project)
   * [File Structure](#file-structure)
-* [Getting started](#prerequisites)
+* [Getting started](#file-structure)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
  * [Usage](#usage)
@@ -111,5 +111,6 @@ After cloning the repo transfer the files to your project folder. Open terminal 
    * [Remote api functions coppeliasim](https://www.coppeliarobotics.com/helpFiles/en/remoteApiFunctionsPython.htm)
    * [To make  coppelia scene  follow this](https://www.coppeliarobotics.com/helpFiles/en/inverseKinematicsTutorial.htm)
 
-  
-
+ ## License
+ 
+  Describe your [license] for your project.

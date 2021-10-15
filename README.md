@@ -1,7 +1,7 @@
 # Gesture-detection-and-replication
 ## Table of contents
 * [About the Project](#about-the-project)
-  * [Tech stack](#about-the-project)
+  * [Tech stack](#file-structure)
   * [File Structure](#file-structure)
 * [Getting started](#file-structure)
   * [Prerequisites](#prerequisites)
@@ -113,4 +113,4 @@ After cloning the repo transfer the files to your project folder. Open terminal 
 
  ## License
  
-  Describe your [license] for your project.
+  Describe your [license](https://github.com/Dhruv454000/Gesture-detection-and-replication/blob/develop/LICENSE) for your project.

@@ -27,14 +27,37 @@ Technologies used for this project
 
 
 ### File Structure
-    .
-    ├── docs                    # Documentation files (alternatively `doc`)
-    │   ├── report.pdf          # Project report
-    │   └── results             # Folder containing screenshots, gifs, videos of results
-    ├── code files                  # code of both approaches( 1.using pretrained cnn model 2. using contours)
-    ├── coppeliasim scene and final code  # scene which you need to open and final merged code
-    ├── some reference notes  # linear algebra and deep learning notes
-    ├── README.md                 
+ ┣ 📂code files
+ 
+ ┃ ┣ 📜cnn_tut_gestures.py
+ 
+ ┃ ┣ 📜gesturedetection(contours).py
+ 
+ ┃ ┗ 📜handrecognition_model.h5
+ 
+ ┣ 📂coppeliasim scene and final code
+ 
+ ┃ ┣ 📜gdar.ttt
+ 
+ ┃ ┗ 📜runningaveragebs.py
+ 
+ ┣ 📂Docs
+ 
+ ┃ ┗ 📂Results
+ 
+ ┃ ┃ ┣ 📜656b4917-81f4-44d8-a429-ee3da94955bd.png
+ 
+ ┃ ┃ ┗ 📜Meet – sbs-nzop-xea - Google Chrome 2021-10-15 12-29-37.mp4
+ 
+ ┣ 📂some reference notes
+ 
+ ┃ ┣ 📜deeplearning (1).pdf
+ 
+ ┃ ┣ 📜linearalgebra.pdf
+ 
+ ┃ ┗ 📜neuralnetworks.pdf
+ 
+ ┗ 📜README.md      
 
 ## Getting Started:-
 

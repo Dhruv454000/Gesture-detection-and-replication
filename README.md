@@ -3,7 +3,7 @@
 * [About the Project](#about-the-project)
   * [Tech stack](#about-the-project)
   * [File Structure](#file-structure)
-* [Getting started](#:-)
+* [Getting started](#Follow)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
  * [Usage](#usage)
@@ -60,6 +60,8 @@ Technologies used for this project
  ┗ 📜README.md      
 
 ## Getting Started:-
+
+Follow this steps to start working on this project
 
 ### Prerequisites
 Follow below steps

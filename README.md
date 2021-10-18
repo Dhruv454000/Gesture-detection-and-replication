@@ -108,6 +108,9 @@ similarly you can move the arm by detecting different gestures.
 
 * [VIDEO OF PROJECT](https://drive.google.com/file/d/1MYeF46O8lwtb_kGuzHJm7bSkJHGjh_S8/view?usp=sharing)
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/84905312/137737225-d7042753-2c49-4165-bd6c-4f676d3c7b18.gif)
+
+
 ## Future work
 * To update the project with new approaches and add more gestures            
 * To do more research on CNN approach.

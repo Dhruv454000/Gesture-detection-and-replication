@@ -3,7 +3,7 @@
 * [About the Project](#about-the-project)
   * [Tech stack](#about-the-project)
   * [File Structure](#file-structure)
-* [Getting started](#prerequisites)
+* [Getting started](#:-)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
  * [Usage](#usage)

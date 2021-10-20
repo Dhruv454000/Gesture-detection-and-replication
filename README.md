@@ -11,7 +11,7 @@
 * [Future Work](#future-work)
 * [Troubleshooting](#troubleshooting)
 * [Contributors](#contributors)
-* [Acknowledgements and Resources](acknowledgements-and-resources)
+* [Acknowledgements and Resources](#acknowledgements-and-resources)
  
 ## About the Project
 To detect and recognise basic hand gestures and imitate them using a simulation of a robotic hand. Recognition of gestures can be done using various approaches like CNN (Convolutional Neural Network), feature engineering (such as binary thresholding, circle detection, etc.), and others. The simulation will be done using CoppeliaSim.In this project will be focusing on two methods. 1.CNN's(for more information see in project resources link below) 2.opencv(contours detection).
@@ -124,6 +124,7 @@ similarly you can move the arm by detecting different gestures.
 * [Gaurav Kumar](https://github.com/GauravKumar9920)
 
 ## Acknowledgements and Resources
+   
 * [SRA VJTI](https://www.sravjti.in/) Eklavya 2020
 
 

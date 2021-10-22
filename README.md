@@ -131,6 +131,7 @@ similarly you can move the arm by detecting different gestures.
  * Some project resources and links:-
    * [Deep learning specialization](https://www.coursera.org/specializations/deep-learning)
    * [linear algebra](https://www.youtube.com/playlist?list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B)
+   * [CNN basic theory](https://www.ibm.com/cloud/learn/convolutional-neural-networks)
    * [Hand gesture model using CNN's](https://towardsdatascience.com/tutorial-using-deep-learning-and-cnns-to-make-a-hand-gesture-recognition-model-371770b63a51)
    * [contours approach](https://www.youtube.com/watch?v=v-XcmsYlzjA)
    

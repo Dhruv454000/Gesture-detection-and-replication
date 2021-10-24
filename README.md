@@ -104,13 +104,19 @@ After cloning the repo transfer the files to your project folder. Open terminal 
 
 Our main idea of this project is to detect hand gestures like one, two,thumbs up,
 ok….etc using open cv (convex defect algorithm) and run corresponding simulations on
-coppeliasim using a model which will replicate this simulations.This is done through
-python api functions provided by coppeliasim.For this you will need to have basic knowledge 
-of python and opencv. Also basic coppeliasim is required. For CNN approach you can use the
-links provided below in the resources folder to learn theory and some courses are also provided
-below.For the contours approach you can follow the algorithm shown below:
+coppeliasim using a model which will replicate this simulations.Initially we had decided 
+to use CNN model for gesture detection but due to less accuracy of model we decided to use
+approach which is based on contours detection and convexity defects for gesture detection.
+We connect with coppeliasim with help of python api functions provided by coppeliasim.
+For  above things you will need to have basic knowledge python and opencv.Also basic
+coppeliasim knowlegde is required. some links for coppeliasim has been provided below in
+resources .For CNN approach you can use the links provided below in the resources
+folder to learn theory and some courses are also provided below.
+For the contours approach you can follow the algorithm shown below:
 
-![Flowchart (1)](https://user-images.githubusercontent.com/84779934/138584081-dcef03cc-ca7c-47c5-a407-f57d731f2ddb.png)
+![Flowchart (4)](https://user-images.githubusercontent.com/84779934/138585334-064e9e5d-9457-4342-a6fd-1d7315e54a28.png)
+
+
 
 ## Results and Demo
 
@@ -124,9 +130,11 @@ similarly you can move the arm by detecting different gestures.
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/84905312/137737225-d7042753-2c49-4165-bd6c-4f676d3c7b18.gif)
 
 
-## Future work
-* To update the project with new approaches and add more gestures            
-* To do more research on CNN approach.
+## Future work         
+* We would like to add more gestures and while replicating it on coppeliasim we can keep some particular target and try to reach that with help of gesture detection. Also we can add some text in coppeliasim to describe which gesture was detected at that movement.
+
+* We could make a gesture controlled game. Not yet thought but could try in future.
+
 
 ## Troubleshooting
 
@@ -139,7 +147,7 @@ similarly you can move the arm by detecting different gestures.
 ## Acknowledgements and Resources
    
 * [SRA VJTI](https://www.sravjti.in/) Eklavya 2020
-
+* Special thanks to our mentors [
 
  * Some project resources and links:-
    * [Deep learning specialization](https://www.coursera.org/specializations/deep-learning)

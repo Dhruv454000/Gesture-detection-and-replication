@@ -125,9 +125,10 @@ For the contours approach you can follow the algorithm shown below:
 So as you can see in the image when **_vertical fist_** was detected then the arm that you see in right side window is oriented at some position.
 similarly you can move the arm by detecting different gestures.
 
-* [VIDEO OF PROJECT](https://drive.google.com/file/d/1MYeF46O8lwtb_kGuzHJm7bSkJHGjh_S8/view?usp=sharing)
-
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/84905312/137737225-d7042753-2c49-4165-bd6c-4f676d3c7b18.gif)
+
+
+* [VIDEO OF PROJECT](https://drive.google.com/file/d/1MYeF46O8lwtb_kGuzHJm7bSkJHGjh_S8/view?usp=sharing)
 
 
 ## Future work         
@@ -147,7 +148,10 @@ similarly you can move the arm by detecting different gestures.
 ## Acknowledgements and Resources
    
 * [SRA VJTI](https://www.sravjti.in/) Eklavya 2020
-* Special thanks to our mentors [
+* Special thanks to our mentors:-
+  * [Anushree sabnis](https://github.com/MOLOCH-dev)  
+  * [Reshmika Nambiar](https://github.com/Reshmika-Nambiar) 
+  * [Saad Hashmi](https://github.com/hashmis79)
 
  * Some project resources and links:-
    * [Deep learning specialization](https://www.coursera.org/specializations/deep-learning)

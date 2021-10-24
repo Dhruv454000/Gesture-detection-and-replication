@@ -28,37 +28,29 @@ Technologies used for this project
 
 
 ### File Structure
- ┣ 📂code files
- 
- ┃ ┣ 📜cnn_tut_gestures.py
- 
- ┃ ┣ 📜gesturedetection(contours).py
- 
- ┃ ┗ 📜handrecognition_model.h5
- 
- ┣ 📂coppeliasim scene and final code
- 
- ┃ ┣ 📜gdar.ttt
- 
- ┃ ┗ 📜runningaveragebs.py
- 
- ┣ 📂Docs
- 
- ┃ ┗ 📂Results
- 
- ┃ ┃ ┣ 📜656b4917-81f4-44d8-a429-ee3da94955bd.png
- 
- ┃ ┃ ┗ 📜Meet – sbs-nzop-xea - Google Chrome 2021-10-15 12-29-37.mp4
- 
- ┣ 📂some reference notes
- 
- ┃ ┣ 📜deeplearning (1).pdf
- 
- ┃ ┣ 📜linearalgebra.pdf
- 
- ┃ ┗ 📜neuralnetworks.pdf
- 
- ┗ 📜README.md      
+
+
+
+      ┣ 📂docs
+      ┃ ┣ 📂Results
+      ┃ ┃ ┣ 📜demoimage.png
+      ┃ ┃ ┣ 📜download.png
+      ┃ ┃ ┣ 📜Projectvideo.mp4
+      ┃ ┃ ┗ 📜Testing-Demo.mp4
+      ┃ ┗ 📜Gesture_report.pdf
+      ┣ 📂notes
+      ┃ ┣ 📜deeplearning (1).pdf
+      ┃ ┣ 📜linearalgebra.pdf
+      ┃ ┗ 📜neuralnetworks.pdf
+      ┣ 📂scenes
+      ┃ ┗ 📜gdar.ttt
+      ┣ 📂src
+      ┃ ┣ 📜cnn_tut_gestures.py
+      ┃ ┣ 📜finalcode.py
+      ┃ ┣ 📜gesturedetection(contours).py
+      ┃ ┗ 📜handrecognition_model.h5
+      ┣ 📜LICENSE
+      ┗ 📜README.md
 
 ## Getting Started
 

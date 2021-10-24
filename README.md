@@ -7,6 +7,7 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
  * [Usage](#usage)
+ * [Theory and approach](#theory-and-approach)
  * [Results and Demo](#results-and-demo)
 * [Future Work](#future-work)
 * [Troubleshooting](#troubleshooting)
@@ -98,6 +99,18 @@ After cloning the repo transfer the files to your project folder. Open terminal 
 1.First open coppeliasim and then open the scene in coppeliasim.
 
 2.Now run **_python filename.py_** in cmd (make sure you are in same directory where your filename.py is saved)
+
+## Theory and Approach
+
+Our main idea of this project is to detect hand gestures like one, two,thumbs up,
+ok….etc using open cv (convex defect algorithm) and run corresponding simulations on
+coppeliasim using a model which will replicate this simulations.This is done through
+python api functions provided by coppeliasim.For this you will need to have basic knowledge 
+of python and opencv. Also basic coppeliasim is required. For CNN approach you can use the
+links provided below in the resources folder to learn theory and some courses are also provided
+below.For the contours approach you can follow the algorithm shown below:
+
+![Flowchart (1)](https://user-images.githubusercontent.com/84779934/138584081-dcef03cc-ca7c-47c5-a407-f57d731f2ddb.png)
 
 ## Results and Demo
 

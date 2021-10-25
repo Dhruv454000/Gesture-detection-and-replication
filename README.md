@@ -120,8 +120,9 @@ similarly you can move the arm by detecting different gestures.
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/84905312/137737225-d7042753-2c49-4165-bd6c-4f676d3c7b18.gif)
 
 
-* [VIDEO OF PROJECT](https://drive.google.com/file/d/1MYeF46O8lwtb_kGuzHJm7bSkJHGjh_S8/view?usp=sharing)
+* VIDEO OF PROJECT
 
+https://user-images.githubusercontent.com/84779934/138653681-b9565c13-69be-43ef-b762-da4cdfb296bd.mp4
 
 ## Future work         
 * We would like to add more gestures and while replicating it on coppeliasim we can keep some particular target and try to reach that with help of gesture detection. Also we can add some text in coppeliasim to describe which gesture was detected at that movement.

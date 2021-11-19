@@ -26,7 +26,7 @@ while(1):
         lower_skin = np.array([0,20,70], dtype=np.uint8)
         upper_skin = np.array([20,255,255], dtype=np.uint8)
         
-     #extract skin colur imagw  
+     #extract skin color image 
         mask = cv2.inRange(hsv, lower_skin, upper_skin)
         
    
@@ -109,13 +109,10 @@ while(1):
             else:
                 if arearatio<10:
                     cv2.putText(frame,'fist vertical',(0,50), font, 2, (255,0,0), 3, cv2.LINE_AA)
-                    print(arearatio)
                 elif arearatio<18:
                     cv2.putText(frame,'thumbs down',(0,50), font, 2, (255,0,0), 3, cv2.LINE_AA)
-                    print(arearatio)
                 elif arearatio<27:
                     cv2.putText(frame,'Best of luck',(0,50), font, 2, (255,0,0), 3, cv2.LINE_AA)
-                    print(arearatio)
                 else:
                     cv2.putText(frame,'1',(0,50), font, 2, (255,0,0), 3, cv2.LINE_AA)
         
